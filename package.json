@@ -1,0 +1,24 @@
+{
+  "name": "loverBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js --ext js"
+  },
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.5.0",
+    "ascii-art": "^2.8.5",
+    "discord-api-types": "^0.37.26",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "firebase": "^9.17.1",
+    "nodemon": "^2.0.20",
+    "random-text-generator": "^3.2.1",
+    "text-to-image": "^5.2.0",
+    "utf8": "^3.0.0"
+  }
+}
